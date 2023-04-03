@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/JFFlat-Bold.ttf",
+      "sha1": "a335305c399540e9ff61479347d0fd8827e26183"
+    },
+    {
+      "path": "src/assets/fonts/JFFlat-Regular.ttf",
+      "sha1": "6e2de4de6f30a45377f771cc54267564ce87a6ef"
+    }
+  ]
+}
